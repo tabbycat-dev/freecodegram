@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
 ![](demo_small.gif)
+
+Learn Laravel 5.8 by creating an Instagram clone in this full tutorial course for beginners. Laravel is a free, open-source PHP web framework used for creating web applications. 
+https://www.youtube.com/watch?v=ImtZ5yENzgE&t=620s
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -14,16 +15,16 @@
 
 
 Course Contents ⭐️
-<p> Introduction </p>
-<p> What is Laravel? </p>
-<p> Installing Laravel</p>
-<p> First look at the project</p>
-<p> Intro to php artisan</p>
-<p> Generating login flow with make:auth</p>
-<p> Setting Up the Front End with Node and NPM</p>
-<p> Migrations and Setting Up SQLite</p>
-<p> Designing the UI from Instagram</p>
-<p> Adding Username to the Registration Flow</p>
+Introduction <br/>
+What is Laravel?<br/>
+Installing Laravel<br/>
+First look at the project<br/>
+Intro to php artisan<br/>
+Generating login flow with make:auth<br/>
+Setting Up the Front End with Node and NPM<br/>
+Migrations and Setting Up SQLite<br/>
+Designing the UI from Instagram<br/>
+Adding Username to the Registration Flow<br/>
 Creating the Profiles Controller <br/>
 RESTful Resource Controller<br/>
 Passing Data to the View<br/>
